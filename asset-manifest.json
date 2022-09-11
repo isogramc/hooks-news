@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/hooks-news/static/js/main.f03be9cb.js",
+    "static/js/787.1bbc1885.chunk.js": "/hooks-news/static/js/787.1bbc1885.chunk.js",
+    "index.html": "/hooks-news/index.html",
+    "main.f03be9cb.js.map": "/hooks-news/static/js/main.f03be9cb.js.map",
+    "787.1bbc1885.chunk.js.map": "/hooks-news/static/js/787.1bbc1885.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f03be9cb.js"
+  ]
+}
